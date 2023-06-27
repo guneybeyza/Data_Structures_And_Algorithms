@@ -1,0 +1,1 @@
+Bu dosyadaki çalışmalar patika.dev Veri yapıları ve Algoritmalar kursu için hazırlanmıştır.
